@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  top: 0;
+  background-color: #fff;
+  position: fixed;
+  height: 80px;
+  width: 100%;
+}
+
+section {
+  background-image: url("/square-enix-hoping-to-release-final-fantasy-7-remake-trilogy_qcmc.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: calc(100vh - 0px);
+}
