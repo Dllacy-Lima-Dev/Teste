@@ -6,7 +6,7 @@
 
 header {
   top: 0;
-  background-color: green;
+  background-color: blue;
   position: absolute;
   height: 80px;
   width: 100%;
@@ -14,7 +14,7 @@ header {
 
 section {
   background-image: url("/square-enix-hoping-to-release-final-fantasy-7-remake-trilogy_qcmc.jpg");
-  background-position: center;
+  background-position: calc(100vh - 0px);
   background-repeat: no-repeat;
   background-size: cover;
   width: 100%;
