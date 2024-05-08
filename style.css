@@ -6,8 +6,8 @@
 
 header {
   top: 0;
-  background-color: #fff;
-  position: fixed;
+  background-color: green;
+  position: absolute;
   height: 80px;
   width: 100%;
 }
